@@ -144,44 +144,11 @@ Vityarthi_Project/
 ## Screenshots
 
 ### Main Menu Interface
-```
-======================================================================
-🎓 PERSONALIZED LEARNING ANALYTICS DASHBOARD FOR STUDENTS 🎓
-======================================================================
+<img width="807" height="522" alt="image" src="https://github.com/user-attachments/assets/2cfaeae2-bc78-4449-9633-3f640122472e" />
 
-----------------------------------------
-📋 MAIN MENU
-----------------------------------------
-1. 👤 Set Name
-2. 📚 Add Subject
-3. 📝 Add Grade
-4. ⏰ Add Study Session
-5. 🗑️  Delete Session
-6. 📊 Show Report
-7. 📈 Grade Chart
-8. 🥧 Hours Chart
-9. 💾 Save Data
-10. 🚪 Exit
-----------------------------------------
-```
 
 ### Sample Progress Report
-```
-==================================================
-📊 PROGRESS REPORT FOR ALEX JOHNSON
-==================================================
-
-📚 Python Programming:
-   📈 Average Grade: 87.7%
-   ⏰ Study Hours: 6.0
-   📝 Total Grades: 3
-
-📚 Mathematics:
-   📈 Average Grade: 91.3%
-   ⏰ Study Hours: 4.5
-   📝 Total Grades: 3
---------------------------------------------------
-```
+<img width="831" height="539" alt="image" src="https://github.com/user-attachments/assets/d3ed82c5-2d4a-4987-be7e-8bc1931c9f1c" />
 
 ### Chart Features
 - **Bar Charts**: Colorful grade averages with percentage labels
@@ -205,5 +172,5 @@ SESSION:Math|2.5|2024-01-15
 ```
 
 ---
-**Built by a college student learning Python 🐍**
-**Project completed as part of academic coursework**
+**Built by a college student learning Python**
+**Project completed for Vityarthi**
