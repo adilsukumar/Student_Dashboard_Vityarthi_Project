@@ -148,7 +148,8 @@ Vityarthi_Project/
 
 
 ### Sample Progress Report
-<img width="831" height="539" alt="image" src="https://github.com/user-attachments/assets/d3ed82c5-2d4a-4987-be7e-8bc1931c9f1c" />
+<img width="872" height="556" alt="image" src="https://github.com/user-attachments/assets/a385c054-b33d-4f8e-9757-adb22ff12112" />
+
 
 ### Chart Features
 - **Bar Charts**: Colorful grade averages with percentage labels
