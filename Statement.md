@@ -127,4 +127,4 @@ A simple tool to track grades, log study hours, and see my progress with visual 
 - Basic error recovery
 
 ---
-**College Python Programming Project**
+**Student Dashboard - Made with ❤️ - Adil Sukumar - Vityarthi Project**
