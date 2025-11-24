@@ -157,6 +157,10 @@ Vityarthi_Project/
 - **Interactive**: Charts open in separate windows
 - **Professional**: Clean styling with student name in titles
 
+<img width="2005" height="1198" alt="image" src="https://github.com/user-attachments/assets/b67d2228-fe48-4e7d-84d4-179ff46bb4d6" />
+<img width="1589" height="1238" alt="image" src="https://github.com/user-attachments/assets/858a1273-6fa7-4379-9fe1-3fe28200fcc4" />
+
+
 ## Troubleshooting
 
 ### Common Issues
