@@ -1,4 +1,4 @@
-# 🎓 Personalized Learning Analytics Dashboard for Students
+# Personalized Learning Analytics Dashboard for Students
 
 ## Project Overview
 
